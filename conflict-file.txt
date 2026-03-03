@@ -5,3 +5,4 @@ Text4 - new line from branch1
 Text5 - another new line
 Text6 - from clone2
 Text7 - last from clone2
+Text8 - from old clone AFTER clone2 push
