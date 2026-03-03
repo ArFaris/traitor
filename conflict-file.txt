@@ -1,3 +1,4 @@
 Text
 Text2 CHANGED IN BRANCH1 - commit 3
 Text3 - additional change 1
+Text4 - new line from branch1
