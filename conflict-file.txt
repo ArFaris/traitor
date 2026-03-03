@@ -1,3 +1,3 @@
 Text
-Text2
+Text2 CHANGED IN BRANCH2 - commit 1
 Text3
