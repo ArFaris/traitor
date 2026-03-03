@@ -4,3 +4,4 @@ Text3 - additional change 1
 Text4 - new line from branch1
 Text5 - another new line
 Text6 - from clone2
+Text7 - last from clone2
